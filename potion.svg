@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="650" viewBox="0 0 560 650" fill="none">
+<defs><linearGradient id="glass" x1="130" y1="300" x2="440" y2="550" gradientUnits="userSpaceOnUse"><stop stop-color="#cadfbc" stop-opacity=".15"/><stop offset=".5" stop-color="#a0bca2" stop-opacity=".04"/><stop offset="1" stop-color="#d9e6ba" stop-opacity=".19"/></linearGradient><linearGradient id="liquid" x1="150" y1="407" x2="380" y2="560" gradientUnits="userSpaceOnUse"><stop stop-color="#c9d09c"/><stop offset="1" stop-color="#6a8b68"/></linearGradient><radialGradient id="halo"><stop stop-color="#b9c297" stop-opacity=".1"/><stop offset="1" stop-color="#b9c297" stop-opacity="0"/></radialGradient><clipPath id="bottle"><path d="M228 178h104v88c0 32 64 45 92 97 33 61 31 144-7 174-26 21-244 21-270 0-38-30-40-113-7-174 28-52 88-65 88-97Z"/></clipPath></defs>
+<ellipse cx="282" cy="348" rx="250" ry="283" fill="url(#halo)"/>
+<path d="M80 486V273C80 151 170 75 280 75s200 76 200 198v213" stroke="#789176" stroke-opacity=".45"/>
+<path d="M95 481V273c0-111 82-183 185-183s185 72 185 183v208" stroke="#789176" stroke-opacity=".2"/>
+<circle cx="280" cy="317" r="217" stroke="#91a17d" stroke-opacity=".19" stroke-dasharray="2 9"/>
+<path d="M329 108a49 49 0 1 1-57-62 47 47 0 0 0 57 62Z" fill="#d8ca99" opacity=".8" transform="translate(0 10) rotate(22 280 80)"/>
+<g stroke="#b9c596" stroke-width="1.2" opacity=".7"><path d="m94 190 4 13 13 4-13 4-4 13-4-13-13-4 13-4ZM441 152l3 9 9 3-9 3-3 9-3-9-9-3 9-3ZM447 423l4 13 13 4-13 4-4 13-4-13-13-4 13-4Z"/><path d="M151 120v12m-6-6h12M395 255v13m-6-7h12M108 376v9m-4-5h9"/></g>
+<g fill="#c7d5a0" opacity=".6"><circle cx="139" cy="268" r="2"/><circle cx="425" cy="328" r="2"/><circle cx="376" cy="133" r="2"/><circle cx="187" cy="212" r="1.5"/><circle cx="456" cy="239" r="1.5"/></g>
+<path d="M234 151h92l-5 36h-82Z" fill="#9e8056" stroke="#dbc28a" stroke-width="1.4"/>
+<path d="m248 157 3 24m13-24 2 25m16-25v26m16-26-2 26m16-25-3 25" stroke="#dbc28a" stroke-opacity=".45"/>
+<path d="M228 178h104v88c0 32 64 45 92 97 33 61 31 144-7 174-26 21-244 21-270 0-38-30-40-113-7-174 28-52 88-65 88-97Z" fill="url(#glass)" stroke="#cbd8b7" stroke-opacity=".75" stroke-width="1.8"/>
+<g clip-path="url(#bottle)"><path d="M111 388c48-26 67 16 116 1 61-19 77 17 129 2 58-17 90-8 107 2v169H111Z" fill="url(#liquid)" opacity=".88"/><path d="M111 388c48-26 67 16 116 1 61-19 77 17 129 2 58-17 90-8 107 2" stroke="#dce3b4" stroke-width="2"/><g stroke="#e3e7b8" stroke-opacity=".5"><circle cx="210" cy="421" r="5"/><circle cx="367" cy="466" r="4"/><circle cx="235" cy="506" r="3"/><circle cx="332" cy="411" r="2.5"/><circle cx="177" cy="480" r="2"/></g></g>
+<path d="M216 185h128v16H216Z" fill="#6f8069" stroke="#d5dabc" stroke-width="1.4"/><path d="M224 208h112" stroke="#6f8069" stroke-width="2"/>
+<path d="M240 226v36c0 31-52 52-76 92-12 20-18 43-19 63" stroke="#e4ebce" stroke-opacity=".48" stroke-width="5" stroke-linecap="round"/>
+<path d="M407 420c9 36 5 77-8 92" stroke="#e4ebce" stroke-opacity=".25" stroke-width="3" stroke-linecap="round"/>
+<path d="M207 417c19-3 47-5 73-5s54 2 73 5v96c-19 8-47 12-73 12s-54-4-73-12Z" fill="#efe6c6" stroke="#b9b18a" stroke-width="1.5"/>
+<path d="M216 425c17-2 40-4 64-4s47 2 64 4v81c-17 6-40 10-64 10s-47-4-64-10Z" stroke="#acaa83" stroke-width=".8"/>
+<path d="M291 445a18 18 0 1 0 7 27 17 17 0 0 1-7-27Z" fill="#4d6348"/>
+<path d="m301 439 2 6 6 2-6 2-2 6-2-6-6-2 6-2Z" fill="#9d824e"/>
+<text x="280" y="501" text-anchor="middle" font-family="Georgia,serif" font-size="12" letter-spacing="3" fill="#4b5944">OLO GAMES</text>
+<path d="M230 204c-5 24-16 35-31 37m0 0c-8-11-13-22-7-31 10 3 13 18 7 31Zm0 0c-17 4-30 2-32-9 12-7 24-1 32 9Z" stroke="#b4c393" stroke-width="1.4"/>
+<path d="M123 566c26-19 47-44 51-73m-23 45c-31-8-39-25-36-41 23 6 35 20 36 41Zm-12 13c-26-1-43 6-48 21 22 3 40-5 48-21Zm21-31c4-25 20-36 35-35-3 20-15 32-35 35Z" stroke="#a0b58a" stroke-width="1.4"/>
+<path d="M437 567c-18-12-35-34-41-61m18 37c25-5 36-21 34-35-19 4-32 17-34 35Zm-11-18c-4-22-18-34-31-32 3 18 13 29 31 32Zm25 30c22-3 36 3 42 15-19 5-33-2-42-15Z" stroke="#a0b58a" stroke-width="1.4"/>
+<path d="M175 573h210" stroke="#879a76" stroke-opacity=".5"/>
+<path d="m279 575 4 10 10 4-10 4-4 10-4-10-10-4 10-4Z" fill="#dac48e"/>
+</svg>
